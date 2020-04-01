@@ -1,0 +1,127 @@
+body{
+	margin:0;
+	padding:0;
+	background: black;
+	/* font-family: 'Dancing Script', cursive; */
+	font-family: 'Great Vibes', cursive;
+}
+#logo{
+	display: block;
+	margin: 0 auto;
+}
+
+#kte{
+	display:none;
+	color: white;
+	color: white;
+    width: 24vw;
+    font-weight: 300;
+    position: absolute;
+    top: 54%;
+    left: 64%;
+    height: 49vh;
+    font-size: 1.5rem;
+	font-family: 'Satisfy', cursive;
+	color:#ECE07D;
+}	
+	
+#performer{
+	position: absolute;
+	top: 39%;
+	left: 56%;
+}
+		
+#Limage{
+	height: 38vh;
+	position: absolute;
+	top: 47%;
+	width: 17vw;
+	left: 12%;
+}
+		
+#small{
+	padding:2rem;
+	margin-top:4rem;
+}
+		
+.frame{
+	width: 16rem;
+	margin-left: 3rem;
+	padding-left: 3rem;
+	z-index:-1;
+}
+		
+.prsn{
+	border-radius: 50%;
+	width: 9rem;	
+}
+		
+#em1{
+	top: 122.1%;
+	left: 12.2%;
+	position: absolute;
+}
+		
+#em2{
+	top: 122%;
+	left: 36%;
+	position: absolute;
+	height: 21vh;
+	width: 8.2rem;
+}
+#em3{
+	top: 123%;
+	left: 59%;
+	height: 20vh;
+	width: 9rem;
+	position: absolute;
+}
+
+#em4{
+	bottom: -43%;
+	left: 82%;
+	position: absolute;
+	height: 21vh;
+}
+		
+#em5{
+	top: 161%;
+	left: 36%;
+	height: 20vh;
+	width: 8rem;
+	position: absolute;
+	border-radius: 50%;
+}
+		
+#em6{
+	bottom: -81%;
+	left: 12.7%;
+	position: absolute;
+	border-radius: 73%;
+	height: 20vh;
+	width: 8rem;
+}
+		
+h1{
+	color: #ECE07D;
+	position: absolute;
+	top: 94%;
+	left: 38%;
+	font-size:3.5rem;
+	font-family: 'Great Vibes', cursive;
+}
+			
+#em7{
+	bottom: -82%;
+	position: absolute;
+	height: 21vh;
+	left: 59%;
+}
+		
+#em8{
+	position: absolute;
+	bottom: -82%;
+	left: 82.5%;
+	height: 21vh;
+	width: 9rem;
+		}
